@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/rik/Jodhpur_Projects/devel/include",
+                "/home/rik/catkin_ws/devel/include",
+                "/opt/ros/kinetic/include",
+                "/home/rik/Jodhpur_Projects/src/ur5_control_nodes/include",
+                "/home/rik/Jodhpur_Projects/src/universal_robot/ur_kinematics/include",
+                "/home/rik/Jodhpur_Projects/src/universal_robot/ur_modern_driver/include",
+                "/usr/include"
+            ],
+            "name": "Linux",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
